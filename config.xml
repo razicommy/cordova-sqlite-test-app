@@ -3,6 +3,7 @@
     <name>Cordova-sqlite-bootstrap-test</name>
     <description>
         Cordova sqlite bootstrap test app: template to demonstrate reproducible issues with Cordova sqlite plugin.
+        (as at 2018-02-24, the workable phonegap-version is cli-6.3.0)
     </description>
     <author email="brodybits@litehelpers.net" href="https://github.com/brodybits">
         @brodybits (Christopher J. Brody aka Chris Brody)
